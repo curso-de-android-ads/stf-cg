@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Countries</string>
+
+    <string name="capital">Capital: </string>
+    <string name="language">Language: </string>
+
+    <string name="bra_name">Brazil</string>
+    <string name="bra_capital">Brasilia</string>
+    <string name="bra_language">Portuguese</string>
+
+    <string name="arg_name">Argentina</string>
+    <string name="arg_capital">Buenos Aires</string>
+    <string name="arg_language">Spanish</string>
+
+    <string name="spa_name">Spain</string>
+    <string name="spa_capital">Madrid</string>
+    <string name="spa_language">Spanish</string>
+
+    <string name="ger_name">Germany</string>
+    <string name="ger_capital">Berlim</string>
+    <string name="ger_language">German</string>
+
+    <string name="mex_name">Mexico</string>
+    <string name="mex_capital">Mexico City</string>
+    <string name="mex_language">Spanish</string>
+
+    <string name="usa_name">United States of America</string>
+    <string name="usa_capital">Washington</string>
+    <string name="usa_language">English</string>
+
+</resources>
